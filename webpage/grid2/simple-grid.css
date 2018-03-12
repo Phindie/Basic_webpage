@@ -308,7 +308,7 @@ table, th, td {
     width: 2px;
 }
 
-.cityImg{
+.city{
   border: 1px solid lightgrey;
   border-radius: 2px;
 }
@@ -318,12 +318,25 @@ background-color: lightgreen;
 
 }
 
-#Castle,#church,#slave{
+/*#Castle,#church,#district{
   padding: 0;
  overflow: hidden;
+}*/
+
+.district{
+  height: 120px;
+  width: 80px;
 }
 
+.castle{
+  height: 120px;
+  width: 80px;
+}
 
+.church{
+   height: 120px;
+  width: 80px;
+}
 
 
 .col-4 img{
