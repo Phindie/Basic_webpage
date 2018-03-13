@@ -282,6 +282,7 @@ font-size: 2em;
 font-size: 1em
 width:400px;
 display: inline-block;
+margin-right: 50px;
 
 }
   h5{
@@ -326,16 +327,19 @@ background-color: lightgreen;
 .district{
   height: 120px;
   width: 80px;
+  margin-right: 30px;
 }
 
 .castle{
   height: 120px;
   width: 80px;
+   margin-right: 30px;
 }
 
 .church{
    height: 120px;
   width: 80px;
+   margin-right: 30px;
 }
 
 
